@@ -132,3 +132,4 @@ cd ..
 cd website
 cd .
 touch background.jpg
+touch header.png
