@@ -111,3 +111,4 @@ cd /workspace/project/freeCodeCamp/node_modules/has/src
 more index.js
 cd ..
 cd ..
+cd ../..
