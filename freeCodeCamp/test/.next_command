@@ -303,3 +303,4 @@ ls --color=auto
 mv website-boilerpate website
 ls --color=auto
 mv website website-boilerplate
+ls --color=auto
