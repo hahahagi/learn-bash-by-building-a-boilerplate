@@ -38,3 +38,5 @@ ls --color=auto
 cd test
 ls --color=auto -l
 pwd
+__vsc_prompt_cmd_original
+ls --color=auto
