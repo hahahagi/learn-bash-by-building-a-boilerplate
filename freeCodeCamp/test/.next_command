@@ -246,3 +246,4 @@ mv footer.jpeg website/client/assets/images
 ls --color=auto
 cd ..
 mv images/footer.jpeg client/assets/images
+find
