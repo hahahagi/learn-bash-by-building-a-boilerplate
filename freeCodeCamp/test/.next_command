@@ -163,3 +163,4 @@ ls --color=auto
 rm header.png
 remove footer.jpeg
 rm footer.jpeg
+ls --color=auto
