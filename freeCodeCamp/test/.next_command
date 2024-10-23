@@ -229,3 +229,4 @@ ls --color=auto
 rm website
 touch header.png
 mv header.png ..
+ls --color=auto
