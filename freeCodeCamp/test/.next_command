@@ -109,3 +109,4 @@ __vsc_prompt_cmd_original
 more index.js
 cd /workspace/project/freeCodeCamp/node_modules/has/src
 more index.js
+cd ..
