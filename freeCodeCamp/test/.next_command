@@ -161,3 +161,5 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm header.png
+remove footer.jpeg
+rm footer.jpeg
