@@ -64,3 +64,5 @@ __vsc_prompt_cmd_original
 ls --color=auto
 more LICENSE-MIT
 __vsc_prompt_cmd_original
+CLEAR
+clear
