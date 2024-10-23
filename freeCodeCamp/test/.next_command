@@ -247,3 +247,4 @@ ls --color=auto
 cd ..
 mv images/footer.jpeg client/assets/images
 find
+rmdir images
