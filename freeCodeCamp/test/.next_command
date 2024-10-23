@@ -215,3 +215,17 @@ cd images
 cd ../../..
 cd images
 ls --color=auto
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+cd website
+cd ..
+cd images
+mv header.png website
+cd website
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+rm website
+touch header.png
+mv header.png ..
