@@ -283,3 +283,6 @@ touch server.js
 touch README.md
 ls --color=auto
 echo Yay!
+I finished the biolerplate!
+ehco I finished the biolerplate!
+echo I finished the boilerplate!
